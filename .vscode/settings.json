@@ -1,5 +1,5 @@
 {
-    "terminal.integrated.cwd": "/home/vm-user/share_folder/work_env/boloto",
+    "terminal.integrated.cwd": "/home/vm-user/share_folder/work_env/boloto/docker_env/containers",
     "terminal.integrated.cursorStyle": "line",
     "github.gitProtocol": "https",
     "remoteHub.gitProtocol": "ssh"
